@@ -100,7 +100,7 @@ li{
     color: var(--mainLinkColor);
 }
 
-#qualification--list{
+#education--list{
     list-style: none;
 }
 
@@ -144,7 +144,6 @@ li{
         width: 200px;
         height: 200px;
     }
-
 
 
     .section--page{
